@@ -10,7 +10,7 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
-            Console.Title = "Check if given numbers are divisible by a given number.";
+            Console.Title = "Check if given numbers are divisible.";
 
             Console.WriteLine("Enter first number: ");
 
